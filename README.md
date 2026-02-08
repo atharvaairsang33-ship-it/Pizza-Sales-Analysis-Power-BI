@@ -20,7 +20,6 @@ The dashboard focuses on sales performance, customer ordering behavior, and prod
 - **Donut Charts** – Sales distribution by pizza category.
 - **Top-Selling Products Analysis**
 - **Interactive Slicers** – Month, Category, Size.
-- **AI-Powered Q&A Visual** for quick data exploration.
 
 ---
 
