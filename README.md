@@ -6,6 +6,11 @@ The dashboard focuses on sales performance, customer ordering behavior, and prod
 
 ---
 
+## 🌐 Live Dashboard
+👉 **[Open Power BI Dashboard](https://app.powerbi.com/links/f7jmf4zMo-?ctid=85021670-ad4e-428e-8931-59f4bb81477d&pbi_source=linkShare)**
+
+---
+
 ## 🔍 Key Achievements
 - Analyzed **$817.86K in total sales** from **21K orders** and **50K pizzas sold**.
 - Derived key KPIs such as **Average Order Size = 2.28 pizzas per order** using **DAX calculations**.
